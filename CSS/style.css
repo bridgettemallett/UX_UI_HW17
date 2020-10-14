@@ -32,7 +32,7 @@ nav {
     height: 600px;
     padding: 25px;
     content: 500px;
-    background-image: url("HEROimg");
+    background-image: url(images/HEROimg.png);
     background-color: #F2E6DF;
     background-position: center;
     background-repeat: no-repeat;
