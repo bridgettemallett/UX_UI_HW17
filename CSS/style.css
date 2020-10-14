@@ -1,0 +1,83 @@
+nav {
+    display: inline-block;
+    text-align: right;
+    font-size: 24px;
+    color: #707070;
+    font-family: Anisette STD;
+    width: 73%;
+    padding: 1%;
+}
+h1 {
+    font-size: 68px;
+    color: #3A0D40;
+    font-family: Anisette STD;
+    text-align: left;
+}
+h2 {
+    font-size: 48px;
+    color: #3A0D40;
+    font-family:  Anisette STD;
+    text-align: left;
+}
+.herocontent {
+    font-size: 32px;
+    font-family: Adobe Clean;
+    color: #3A0D40;
+    text-align: center;
+}
+li {
+    display: inline-block;
+    font-size: 24px;
+    align-items: right;
+    padding:center;
+}
+h4 {
+    font-size: 24px;
+    color: #A6567B;
+    font-family: Anisette STD;
+}
+#logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+    display: inline-block
+}
+#hero {
+    height: 600px;
+    padding: 25px;
+    content: 500px;
+    background-image: url("images/HEROimg.png");
+    background-color: #F2E6DF;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+#footer {
+    Height: 110px;
+    width: 100%;
+    bottom: 0;
+    display: inline-block;
+    background-color: #F2E6DF;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+#socialmedia {
+    text-align: right;
+    display: inline-block;
+
+}
+#copyright{
+    vertical-align: bottom;
+    text-align: left;
+    display: inline-block;
+}
+
+#header {
+    align-items: stretch;
+}
+html {
+    background-color: #F2E6DF;
+}
